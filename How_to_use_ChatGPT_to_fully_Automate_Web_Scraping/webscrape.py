@@ -2,7 +2,11 @@
 Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro
 
 Objetivo: Nest script fazemos uma raspagem de informações 
-          num site da internet (imdb.com).
+          num site da internet (imdb.com). Depois de coletar as 
+          informações salvamos os Dados num arquivo CSV 🤗.
+
+OBS: As vezes o site demora ou dá erro no retorno.
+     Tente várias vezes a execução do script.          
 """
 import requests
 from bs4 import BeautifulSoup
