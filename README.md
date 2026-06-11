@@ -1,6 +1,6 @@
 <h1 align="center"><font color="gree">Scraping the Web for NLP applications</font></h1>
 
-<font color="pink">Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro</font>
+<font color="pink">Senior Data Scientist.: Dr. Eddy Giusepe Chirinos Isidro</font>
 
 ![](https://www.colormango.com/ai-deals/boxshot/scrapegraphai_158854.jfif)
 
@@ -17,14 +17,12 @@
 
 
 
-
-
 Link study:
 
 * [7 Best Crawl4AI Alternatives for AI Web Scraping in 2026](https://scrapegraphai.com/blog/crawl4ai-alternatives)
 
 
-
+* [ScrapeGraphAI: Scrape Any Website with Natural Language](https://newsletter.codecut.ai/p/scrapegraphai-scrape-any-website)
 
 
 
