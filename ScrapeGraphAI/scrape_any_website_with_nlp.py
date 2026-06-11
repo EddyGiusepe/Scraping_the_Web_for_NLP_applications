@@ -4,8 +4,8 @@ Senior Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro
 
 Script scrape_any_website_with_nlp.py
 =====================================
-Neste script vamos usar a biblioteca ScrapeGraphAI para extrair
-informações de um site de livros.
+ScrapeGraphAI é uma biblioteca de Python para extrair dados de
+qualquer site da web usando `LLMs`.
 
 Run
 ---
@@ -39,6 +39,8 @@ graph_config = {
         "api_key": Eddy_key_openai,
         "model": "openai/gpt-4o-mini",
     },
+    "verbose": True,
+    "headless": False,
 }
 
 smart_scraper = SmartScraperGraph(
